@@ -1,0 +1,16 @@
+ [
+  {
+    "id": "1",
+    "name": "Bricks",
+    "details": "Cool bricks you have there",
+    "image_url": "/bricks.png"
+  },
+
+  {
+    "id": "2",
+    "name": "Fabric Wool",
+    "details": "Nice wool",
+    "image_url": "/fabric-wool.jpg"
+  }
+]
+
